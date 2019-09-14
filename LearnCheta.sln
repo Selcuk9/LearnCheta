@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnCheta", "LearnCheta\LearnCheta.csproj", "{983A3628-AD61-4390-B40C-09DC309F4FF4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{95318FB6-7890-4EDE-BCDD-5A937DAB1DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983A3628-AD61-4390-B40C-09DC309F4FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983A3628-AD61-4390-B40C-09DC309F4FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983A3628-AD61-4390-B40C-09DC309F4FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983A3628-AD61-4390-B40C-09DC309F4FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95318FB6-7890-4EDE-BCDD-5A937DAB1DBF}.Debug|Any CPU.ActiveCfg = Debug
+		{95318FB6-7890-4EDE-BCDD-5A937DAB1DBF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F93EAF0C-347C-4F0E-BCF6-07FE6C900D01}
+	EndGlobalSection
+EndGlobal

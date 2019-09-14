@@ -1,0 +1,1 @@
+﻿DBCC CHECKIDENT ('PlanChetov', RESEED,0)
