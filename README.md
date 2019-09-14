@@ -1,4 +1,4 @@
 # LearnCheta
 Обучение плана счетов
-six Hours
-GavnoCoder:)
+#SixHours
+#GavnoCoder:)
