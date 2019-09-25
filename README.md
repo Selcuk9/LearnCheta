@@ -1,4 +1,4 @@
 # LearnCheta
-Обучение плана счетов
+Обучение план счетов
 #SixHours
 #GavnoCoder:)
